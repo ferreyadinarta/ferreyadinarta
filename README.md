@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Ferrey 👋
 
-<!--
-**ferreyadinarta/ferreyadinarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Engineer based in Indonesia. I build web products 
+from the API to the UI.
 
-Here are some ideas to get you started:
+Currently working with **Next.js · TypeScript · Tailwind · Golang · PostgreSQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- 🚀 [Statsy](https://statsy.page) — a simple, affordable status page tool for developers and small teams. Waitlist open.
+
+## Experience
+- 2+ years building production web apps professionally
+- ERP systems, document workflows, internal tooling
+- Currently open to remote fullstack/frontend roles
+
+## Get in touch
+- 💼 [LinkedIn](https://linkedin.com/in/ferrey-adinarta)
+- 📧 ferreyadinarta5@gmail.com
