@@ -1,6 +1,6 @@
 # Hey, I'm Ferrey 👋
 
-Fullstack Engineer based in Indonesia. I build web products 
+Fullstack Engineer based in Indonesia. I build web app products 
 from the API to the UI.
 
 Currently working with **Next.js · TypeScript · Tailwind · Golang · PostgreSQL**
@@ -16,3 +16,4 @@ Currently working with **Next.js · TypeScript · Tailwind · Golang · PostgreS
 ## Get in touch
 - 💼 [LinkedIn](https://linkedin.com/in/ferrey-adinarta)
 - 📧 ferreyadinarta5@gmail.com
+- 💻  https://ferrey-adinarta.vercel.app
