@@ -6,7 +6,7 @@ from the API to the UI.
 Currently working with **Next.js · TypeScript · Tailwind · Golang · PostgreSQL**
 
 ## What I'm building
-- 🚀 [Statsy](https://statsy.page) — a simple, affordable status page tool for developers and small teams. Waitlist open.
+- 🚀 [Statsy](https://statsy.page) - a simple, affordable status page tool for developers and small teams.
 
 ## Experience
 - 2+ years building production web apps professionally
